@@ -50,3 +50,6 @@ This web tool for synthesizing and visualizing realtime cryptocurrency trends
   │   ├── config/           # contains the configuration files for the backend
   │   │   ├── db.js         # contains the code for connecting to the database
   │   │   └── env.js
+
+
+test commit
